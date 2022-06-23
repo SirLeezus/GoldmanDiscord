@@ -1,0 +1,5 @@
+name: GoldmanDiscord
+version: '${project.version}'
+main: lee.code.discord.GoldmanDiscord
+api-version: 1.19
+depend: [GoldmanCore]
