@@ -15,7 +15,7 @@ public enum ConfigFile {
     SUPPORT_CATEGORY_ID("support-category-id", "00000000"),
     SUGGESTION_CATEGORY_ID("suggestion-category-id", "00000000"),
     REPORT_PLAYER_NUMBER("report-player-number", "1"),
-    REPORT_BUG_NUMBER("report-player-number", "1"),
+    REPORT_BUG_NUMBER("report-bug-number", "1"),
     SUPPORT_NUMBER("support-number", "1"),
     SUGGESTION_NUMBER("suggestion-number", "1"),
     ;
