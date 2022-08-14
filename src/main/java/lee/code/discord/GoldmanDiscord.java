@@ -32,7 +32,6 @@ public class GoldmanDiscord extends JavaPlugin {
         data.loadData();
         setupBot();
         pU.scheduleOnlinePlayerChecker();
-        pU.schedulePingServers();
     }
 
     private void setupBot() {
